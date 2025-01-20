@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">TS. Nguyen Duc Hien</string>
+    <string name="affirmation2">TS. Phan Thi Lan Anh</string>
+    <string name="affirmation3">ThS. Nguyen Ha Huy Cuong</string>
+    <string name="affirmation4">TS. Tran Van Dai</string>
+    <string name="affirmation5">ThS. Vo Ngoc Dat</string>
+</resources>
